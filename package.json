@@ -1,0 +1,50 @@
+{
+  "name": "udacicards",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "dependencies": {
+    "array-shuffle": "1.0.1",
+    "date-fns": "1.29.0",
+    "deep-freeze": "0.0.1",
+    "expo": "21.0.0",
+    "glamorous-native": "1.2.0",
+    "react": "16.0.0",
+    "react-native": "0.48.4",
+    "react-native-keyboard-aware-scroll-view": "0.3.0",
+    "react-navigation": "1.0.0-beta.13",
+    "redux-persist": "4.10.1",
+    "remote-redux-devtools": "0.5.12",
+    "react-redux": "latest",
+    "redux": "latest",
+    "prop-types": "latest",
+    "@expo/vector-icons": "latest"
+  },
+  "devDependencies": {
+    "babel-eslint": "8.0.1",
+    "eslint": "4.8.0",
+    "eslint-config-standard": "10.2.1",
+    "eslint-config-standard-jsx": "4.0.2",
+    "eslint-import-resolver-node": "0.3.1",
+    "eslint-loader": "1.9.0",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-node": "5.2.0",
+    "eslint-plugin-promise": "3.5.0",
+    "eslint-plugin-react": "7.4.0",
+    "eslint-plugin-standard": "3.0.1",
+    "jest-expo": "21.0.2",
+    "prettier-eslint-cli": "4.4.0",
+    "react-native-scripts": "1.5.0",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  }
+}

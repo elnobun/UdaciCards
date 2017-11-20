@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "sdkVersion": "21.0.0",
+    "orientation": "portrait",
+    "name": "UdaciCards",
+    "description": "Mobile Flashcards",
+    "slug": "udacicards",
+    "version": "0.2.0",
+    "icon": "https://i.imgur.com/Zkq188H.png",
+    "notification": {
+      "icon": "https://i.imgur.com/RveFDUh.png"
+    },
+    "ios": {
+      "bundleIdentifier": "org.udacicards.exp"
+    }
+  }
+}
